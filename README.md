@@ -39,12 +39,12 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theerthaNadeeja03&show_icons=true&theme=dark)
 
 ### 🧰 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theerthaNadeeja03&layout=compact&theme=dark)
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=theerthaNadeeja03&theme=dark)
 
 
